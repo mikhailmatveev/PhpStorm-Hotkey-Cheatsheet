@@ -101,3 +101,12 @@
 |`F9`|Resume program|Продолжить выполнение программы|
 |`Ctrl`+`F8`|Toggle breakpoint|Установить/снять контрольную точку|
 |`Ctrl`+`Shift`+`F8`|View breakpoints|Просмотр контрольных точек|
+
+## Выполнение
+
+|Сочетание клавиш|Оригинальное название команды|Назначение|
+| --- | --- | --- |
+|`Shift`+`F10`|Run|Выполнить|
+|`Shift`+`F9`|Debug|Отладка|
+|`Ctrl`+`Shift`+`F10`|Run context configuration from editor|Выбрать конфигурацию и запустить|
+|`Ctrl`+`Shift`+`X` или `Ctrl` `Ctrl`|Run command line|Открыть командную строку|
