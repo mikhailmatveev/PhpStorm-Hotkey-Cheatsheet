@@ -48,6 +48,7 @@
 |`Ctrl`+`Backspace`|Delete to word start|Удалить часть слова от позиции курсора к началу слова|
 |`Ctrl`+`+`/`-`|Expand/collapse code block|Развернуть/свернуть блок кода|
 |`Ctrl`+`F4`|Close active editor tab|Закрыть текущую вкладку редактора|
+|`Ctrl`+`Shift`+`E`|Recent Locations|Показать последние правки|
 |`Ctrl`+`Shift`+`V`|Paste from history|Специальная вставка|
 
 ### Дополнительные команды
